@@ -16,6 +16,7 @@ public class Product {
   private String category;
   private String image;
   private Long price;
+  private int countInStock;
   private String brand;
   private float rating;
   private int numReviews;
